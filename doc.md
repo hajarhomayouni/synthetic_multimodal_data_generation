@@ -15,3 +15,5 @@ Pre-trained model
   - Rely on the prefix input and origin text
 - the following paper indicate that lower preplexity has better performance
   - [Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
+## Downloadable file
+- [gpt2.tar.gz](https://drive.google.com/file/d/1JPQ7dFMJiJIRYIJliy5qzGawOewuVnUn/view?usp=sharing)
